@@ -56,31 +56,41 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
+
+
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 Leaderboard <a name="about-project"></a>
 
-**[Leaderboard]** is a website displays scores submitted by different players. It also allows you to submit your score. 
+**Leaderboard** is a Frontend Javascript project in the Microverse curriculum. It is about fetching data from API using async/await.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **HTML5**
-- **CSS3**
-- **JavaScript(ES6)**
-- **Webpack**
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add Name]**
-- **[Add Score]**
-- **[Display Names and Scores]**
+- **Responsive**
+- **Using asynchronous programming**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://abenezer-addisu.github.io/Leaderboard_01/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,27 +98,22 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you'll need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- `NodeJS`
+- `NPM`
+- `VSCode`
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Example commands:
-
 ```sh
   cd my-folder
-  
   git clone https://github.com/abenezer-addisu/Leaderboard_01.git
 ```
 
@@ -116,26 +121,24 @@ Example commands:
 
 Install this project with:
 
+Once you clone the repo, go to the dirctory and run
 
-Example command:
-
+```sh
   cd my-project
   npm install
-
+```
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project (Webpack live server) type this command
 
-
-Example command:
-npm start
+```sh
+  npm start
+```
 
 ### Deployment
 
-You can deploy this project using:
-
-github pages
+You can deploy this project by pushing to your own `github page`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,8 +150,7 @@ github pages
 👤 **Abenezer**
 
 - GitHub: [@Abenezer](https://github.com/Abenezer-addisu)
-- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)
-
+- LinkedIn: [Abenezer](https://www.linkedin.com/in/abenezer-addisu)q
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,12 +158,14 @@ github pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[Add more dynamic pages]**
+- **Using Webpack module bundler**
+- **Using es6**
+- **Using Bootstrap**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING →
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
